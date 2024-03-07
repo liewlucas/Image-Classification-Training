@@ -1,0 +1,658 @@
+TASK 1 START
+[Done processing AnnualCrop]
+[Done processing Forest]
+[Done processing HerbaceousVegetation]
+[Done processing Highway]
+[Done processing Industrial]
+[Done processing Pasture]
+[Done processing PermanentCrop]
+[Done processing Residential]
+[Done processing River]
+[Done processing SeaLake]
+[Data processing COMPLETED]
+Epoch [1/5]:
+  Batch [10/338], Loss: 2.4881
+  Batch [20/338], Loss: 5.0146
+  Batch [30/338], Loss: 7.4597
+  Batch [40/338], Loss: 9.9239
+  Batch [50/338], Loss: 12.3604
+  Batch [60/338], Loss: 14.7440
+  Batch [70/338], Loss: 17.1094
+  Batch [80/338], Loss: 19.4921
+  Batch [90/338], Loss: 21.7815
+  Batch [100/338], Loss: 24.0914
+  Batch [110/338], Loss: 26.3617
+  Batch [120/338], Loss: 28.6189
+  Batch [130/338], Loss: 30.8818
+  Batch [140/338], Loss: 33.1562
+  Batch [150/338], Loss: 35.3343
+  Batch [160/338], Loss: 37.5299
+  Batch [170/338], Loss: 39.7141
+  Batch [180/338], Loss: 41.8562
+  Batch [190/338], Loss: 43.9537
+  Batch [200/338], Loss: 46.0690
+  Batch [210/338], Loss: 48.1360
+  Batch [220/338], Loss: 50.1837
+  Batch [230/338], Loss: 52.2268
+  Batch [240/338], Loss: 54.2900
+  Batch [250/338], Loss: 56.3055
+  Batch [260/338], Loss: 58.2774
+  Batch [270/338], Loss: 60.2840
+  Batch [280/338], Loss: 62.2459
+  Batch [290/338], Loss: 64.1716
+  Batch [300/338], Loss: 66.1235
+  Batch [310/338], Loss: 68.1066
+  Batch [320/338], Loss: 70.0045
+  Batch [330/338], Loss: 71.9433
+Epoch [2/5]:
+  Batch [10/338], Loss: 1.8187
+  Batch [20/338], Loss: 3.6279
+  Batch [30/338], Loss: 5.4437
+  Batch [40/338], Loss: 7.2663
+  Batch [50/338], Loss: 9.0361
+  Batch [60/338], Loss: 10.7967
+  Batch [70/338], Loss: 12.5606
+  Batch [80/338], Loss: 14.3176
+  Batch [90/338], Loss: 16.0627
+  Batch [100/338], Loss: 17.7625
+  Batch [110/338], Loss: 19.4629
+  Batch [120/338], Loss: 21.1262
+  Batch [130/338], Loss: 22.8346
+  Batch [140/338], Loss: 24.5194
+  Batch [150/338], Loss: 26.2047
+  Batch [160/338], Loss: 27.7999
+  Batch [170/338], Loss: 29.4178
+  Batch [180/338], Loss: 31.1005
+  Batch [190/338], Loss: 32.6753
+  Batch [200/338], Loss: 34.2472
+  Batch [210/338], Loss: 35.8025
+  Batch [220/338], Loss: 37.3010
+  Batch [230/338], Loss: 38.8597
+  Batch [240/338], Loss: 40.3875
+  Batch [250/338], Loss: 41.8833
+  Batch [260/338], Loss: 43.3662
+  Batch [270/338], Loss: 44.8534
+  Batch [280/338], Loss: 46.3132
+  Batch [290/338], Loss: 47.7388
+  Batch [300/338], Loss: 49.2002
+  Batch [310/338], Loss: 50.6239
+  Batch [320/338], Loss: 52.0327
+  Batch [330/338], Loss: 53.4512
+Epoch [3/5]:
+  Batch [10/338], Loss: 1.3687
+  Batch [20/338], Loss: 2.7865
+  Batch [30/338], Loss: 4.2075
+  Batch [40/338], Loss: 5.6130
+  Batch [50/338], Loss: 6.9324
+  Batch [60/338], Loss: 8.3045
+  Batch [70/338], Loss: 9.6397
+  Batch [80/338], Loss: 10.8998
+  Batch [90/338], Loss: 12.1756
+  Batch [100/338], Loss: 13.5196
+  Batch [110/338], Loss: 14.7868
+  Batch [120/338], Loss: 16.0832
+  Batch [130/338], Loss: 17.3495
+  Batch [140/338], Loss: 18.6399
+  Batch [150/338], Loss: 19.9039
+  Batch [160/338], Loss: 21.1623
+  Batch [170/338], Loss: 22.4296
+  Batch [180/338], Loss: 23.6717
+  Batch [190/338], Loss: 24.8613
+  Batch [200/338], Loss: 26.0799
+  Batch [210/338], Loss: 27.2562
+  Batch [220/338], Loss: 28.4151
+  Batch [230/338], Loss: 29.6048
+  Batch [240/338], Loss: 30.7302
+  Batch [250/338], Loss: 31.8905
+  Batch [260/338], Loss: 33.0560
+  Batch [270/338], Loss: 34.2134
+  Batch [280/338], Loss: 35.2982
+  Batch [290/338], Loss: 36.3815
+  Batch [300/338], Loss: 37.4827
+  Batch [310/338], Loss: 38.5857
+  Batch [320/338], Loss: 39.7027
+  Batch [330/338], Loss: 40.7369
+Epoch [4/5]:
+  Batch [10/338], Loss: 1.1175
+  Batch [20/338], Loss: 2.2227
+  Batch [30/338], Loss: 3.3275
+  Batch [40/338], Loss: 4.3727
+  Batch [50/338], Loss: 5.4084
+  Batch [60/338], Loss: 6.5016
+  Batch [70/338], Loss: 7.5405
+  Batch [80/338], Loss: 8.5625
+  Batch [90/338], Loss: 9.5466
+  Batch [100/338], Loss: 10.5440
+  Batch [110/338], Loss: 11.5114
+  Batch [120/338], Loss: 12.5201
+  Batch [130/338], Loss: 13.4649
+  Batch [140/338], Loss: 14.4213
+  Batch [150/338], Loss: 15.4073
+  Batch [160/338], Loss: 16.3967
+  Batch [170/338], Loss: 17.3238
+  Batch [180/338], Loss: 18.3251
+  Batch [190/338], Loss: 19.2789
+  Batch [200/338], Loss: 20.2163
+  Batch [210/338], Loss: 21.1851
+  Batch [220/338], Loss: 22.1406
+  Batch [230/338], Loss: 23.0506
+  Batch [240/338], Loss: 23.9539
+  Batch [250/338], Loss: 24.9002
+  Batch [260/338], Loss: 25.8272
+  Batch [270/338], Loss: 26.7580
+  Batch [280/338], Loss: 27.6938
+  Batch [290/338], Loss: 28.5670
+  Batch [300/338], Loss: 29.5133
+  Batch [310/338], Loss: 30.3805
+  Batch [320/338], Loss: 31.2653
+  Batch [330/338], Loss: 32.1136
+Epoch [5/5]:
+  Batch [10/338], Loss: 0.8397
+  Batch [20/338], Loss: 1.6781
+  Batch [30/338], Loss: 2.4843
+  Batch [40/338], Loss: 3.3677
+  Batch [50/338], Loss: 4.2438
+  Batch [60/338], Loss: 5.0918
+  Batch [70/338], Loss: 5.8952
+  Batch [80/338], Loss: 6.7335
+  Batch [90/338], Loss: 7.4981
+  Batch [100/338], Loss: 8.3408
+  Batch [110/338], Loss: 9.1598
+  Batch [120/338], Loss: 9.9897
+  Batch [130/338], Loss: 10.7897
+  Batch [140/338], Loss: 11.5781
+  Batch [150/338], Loss: 12.3600
+  Batch [160/338], Loss: 13.1480
+  Batch [170/338], Loss: 13.9243
+  Batch [180/338], Loss: 14.7300
+  Batch [190/338], Loss: 15.4800
+  Batch [200/338], Loss: 16.3050
+  Batch [210/338], Loss: 17.0493
+  Batch [220/338], Loss: 17.7805
+  Batch [230/338], Loss: 18.5534
+  Batch [240/338], Loss: 19.3016
+  Batch [250/338], Loss: 20.0543
+  Batch [260/338], Loss: 20.8167
+  Batch [270/338], Loss: 21.5808
+  Batch [280/338], Loss: 22.3142
+  Batch [290/338], Loss: 23.0586
+  Batch [300/338], Loss: 23.7863
+  Batch [310/338], Loss: 24.4892
+  Batch [320/338], Loss: 25.2065
+  Batch [330/338], Loss: 25.9045
+Loss curves saved to cv\small\curve\T1Curve.png
+==============================================================
+Mean Average Precision for Each Class (Validation Set):
+AnnualCrop: 0.6936
+Forest: 0.6937
+HerbaceousVegetation: 0.6637
+Highway: 0.6354
+Industrial: 0.8350
+Pasture: 0.3545
+PermanentCrop: 0.5608
+Residential: 0.7489
+River: 0.4603
+SeaLake: 0.8034
+Mean Average Precision over all classes:: 0.6449
+==============================================================
+Mean Accuracy for Each Class (Validation Set):
+AnnualCrop: 0.9285
+Forest: 0.9397
+HerbaceousVegetation: 0.9257
+Highway: 0.9218
+Industrial: 0.9561
+Pasture: 0.9313
+PermanentCrop: 0.9389
+Residential: 0.9459
+River: 0.9226
+SeaLake: 0.8924
+Mean Average Precision over all classes:: 0.9303
+==============================================================
+Test Metrics for Each Class (Test Set):
+AnnualCrop:
+  Average Precision: 100.00%
+  Accuracy: 100.00%
+Forest:
+  Average Precision: 100.00%
+  Accuracy: 100.00%
+HerbaceousVegetation:
+  Average Precision: 100.00%
+  Accuracy: 91.67%
+Highway:
+  Average Precision: 25.00%
+  Accuracy: 100.00%
+Industrial:
+  Average Precision: 50.00%
+  Accuracy: 100.00%
+Pasture:
+  Average Precision: 25.00%
+  Accuracy: 91.67%
+PermanentCrop:
+  Average Precision: 50.00%
+  Accuracy: 100.00%
+Residential:
+  Average Precision: 100.00%
+  Accuracy: 100.00%
+River:
+  Average Precision: 100.00%
+  Accuracy: 100.00%
+SeaLake:
+  Average Precision: 100.00%
+  Accuracy: 100.00%
+Test Metrics (Overall Mean):
+  Mean Average Precision (mAP): 75.00%
+  Mean Accuracy: 98.33%
+TASK 1 START
+[Done processing AnnualCrop]
+[Done processing Forest]
+[Done processing HerbaceousVegetation]
+[Done processing Highway]
+[Done processing Industrial]
+[Done processing Pasture]
+[Done processing PermanentCrop]
+[Done processing Residential]
+[Done processing River]
+[Done processing SeaLake]
+[Data processing COMPLETED]
+Epoch [1/10]:
+  Batch [10/338], Loss: 2.8155
+  Batch [20/338], Loss: 5.5353
+  Batch [30/338], Loss: 8.2985
+  Batch [40/338], Loss: 11.0410
+  Batch [50/338], Loss: 13.7880
+  Batch [60/338], Loss: 16.3643
+  Batch [70/338], Loss: 19.0302
+  Batch [80/338], Loss: 21.6297
+  Batch [90/338], Loss: 24.2262
+  Batch [100/338], Loss: 26.8319
+  Batch [110/338], Loss: 29.3372
+  Batch [120/338], Loss: 31.9213
+  Batch [130/338], Loss: 34.4710
+  Batch [140/338], Loss: 36.9292
+  Batch [150/338], Loss: 39.3533
+  Batch [160/338], Loss: 41.7422
+  Batch [170/338], Loss: 44.1662
+  Batch [180/338], Loss: 46.6028
+  Batch [190/338], Loss: 48.9263
+  Batch [200/338], Loss: 51.2553
+  Batch [210/338], Loss: 53.6172
+  Batch [220/338], Loss: 55.8887
+  Batch [230/338], Loss: 58.1647
+  Batch [240/338], Loss: 60.4327
+  Batch [250/338], Loss: 62.6195
+  Batch [260/338], Loss: 64.7643
+  Batch [270/338], Loss: 66.9252
+  Batch [280/338], Loss: 69.1125
+  Batch [290/338], Loss: 71.3057
+  Batch [300/338], Loss: 73.4631
+  Batch [310/338], Loss: 75.5959
+  Batch [320/338], Loss: 77.7471
+  Batch [330/338], Loss: 79.8329
+Epoch [2/10]:
+  Batch [10/338], Loss: 2.0422
+  Batch [20/338], Loss: 4.0949
+  Batch [30/338], Loss: 6.0778
+  Batch [40/338], Loss: 8.0679
+  Batch [50/338], Loss: 10.1050
+  Batch [60/338], Loss: 12.0639
+  Batch [70/338], Loss: 14.0446
+  Batch [80/338], Loss: 15.9865
+  Batch [90/338], Loss: 17.9763
+  Batch [100/338], Loss: 19.8588
+  Batch [110/338], Loss: 21.6993
+  Batch [120/338], Loss: 23.5735
+  Batch [130/338], Loss: 25.3667
+  Batch [140/338], Loss: 27.1740
+  Batch [150/338], Loss: 29.0007
+  Batch [160/338], Loss: 30.7503
+  Batch [170/338], Loss: 32.4856
+  Batch [180/338], Loss: 34.2572
+  Batch [190/338], Loss: 36.0360
+  Batch [200/338], Loss: 37.7856
+  Batch [210/338], Loss: 39.4627
+  Batch [220/338], Loss: 41.1714
+  Batch [230/338], Loss: 42.8475
+  Batch [240/338], Loss: 44.5335
+  Batch [250/338], Loss: 46.2126
+  Batch [260/338], Loss: 47.8486
+  Batch [270/338], Loss: 49.4888
+  Batch [280/338], Loss: 51.0685
+  Batch [290/338], Loss: 52.6513
+  Batch [300/338], Loss: 54.2964
+  Batch [310/338], Loss: 55.8589
+  Batch [320/338], Loss: 57.4615
+  Batch [330/338], Loss: 59.0009
+Epoch [3/10]:
+  Batch [10/338], Loss: 1.5392
+  Batch [20/338], Loss: 3.0155
+  Batch [30/338], Loss: 4.4806
+  Batch [40/338], Loss: 5.9791
+  Batch [50/338], Loss: 7.4665
+  Batch [60/338], Loss: 8.9316
+  Batch [70/338], Loss: 10.3415
+  Batch [80/338], Loss: 11.7835
+  Batch [90/338], Loss: 13.2049
+  Batch [100/338], Loss: 14.5701
+  Batch [110/338], Loss: 15.9398
+  Batch [120/338], Loss: 17.3055
+  Batch [130/338], Loss: 18.7043
+  Batch [140/338], Loss: 20.1301
+  Batch [150/338], Loss: 21.5368
+  Batch [160/338], Loss: 22.8755
+  Batch [170/338], Loss: 24.1527
+  Batch [180/338], Loss: 25.4372
+  Batch [190/338], Loss: 26.7704
+  Batch [200/338], Loss: 28.1004
+  Batch [210/338], Loss: 29.4163
+  Batch [220/338], Loss: 30.6862
+  Batch [230/338], Loss: 31.9682
+  Batch [240/338], Loss: 33.2642
+  Batch [250/338], Loss: 34.5564
+  Batch [260/338], Loss: 35.7933
+  Batch [270/338], Loss: 37.0339
+  Batch [280/338], Loss: 38.2174
+  Batch [290/338], Loss: 39.4333
+  Batch [300/338], Loss: 40.6175
+  Batch [310/338], Loss: 41.9125
+  Batch [320/338], Loss: 43.1499
+  Batch [330/338], Loss: 44.3326
+Epoch [4/10]:
+  Batch [10/338], Loss: 1.1860
+  Batch [20/338], Loss: 2.3185
+  Batch [30/338], Loss: 3.4759
+  Batch [40/338], Loss: 4.6345
+  Batch [50/338], Loss: 5.7428
+  Batch [60/338], Loss: 6.9297
+  Batch [70/338], Loss: 8.0236
+  Batch [80/338], Loss: 9.1493
+  Batch [90/338], Loss: 10.2460
+  Batch [100/338], Loss: 11.3502
+  Batch [110/338], Loss: 12.4789
+  Batch [120/338], Loss: 13.6001
+  Batch [130/338], Loss: 14.7091
+  Batch [140/338], Loss: 15.7711
+  Batch [150/338], Loss: 16.8096
+  Batch [160/338], Loss: 17.9166
+  Batch [170/338], Loss: 18.9663
+  Batch [180/338], Loss: 19.9624
+  Batch [190/338], Loss: 21.0303
+  Batch [200/338], Loss: 22.0658
+  Batch [210/338], Loss: 23.0590
+  Batch [220/338], Loss: 24.0858
+  Batch [230/338], Loss: 25.1259
+  Batch [240/338], Loss: 26.1232
+  Batch [250/338], Loss: 27.1439
+  Batch [260/338], Loss: 28.0884
+  Batch [270/338], Loss: 29.0455
+  Batch [280/338], Loss: 30.0102
+  Batch [290/338], Loss: 30.9888
+  Batch [300/338], Loss: 31.9464
+  Batch [310/338], Loss: 32.9006
+  Batch [320/338], Loss: 33.7985
+  Batch [330/338], Loss: 34.7310
+Epoch [5/10]:
+  Batch [10/338], Loss: 0.9208
+  Batch [20/338], Loss: 1.8615
+  Batch [30/338], Loss: 2.7380
+  Batch [40/338], Loss: 3.5884
+  Batch [50/338], Loss: 4.5116
+  Batch [60/338], Loss: 5.4255
+  Batch [70/338], Loss: 6.3121
+  Batch [80/338], Loss: 7.1994
+  Batch [90/338], Loss: 8.0746
+  Batch [100/338], Loss: 8.9539
+  Batch [110/338], Loss: 9.8531
+  Batch [120/338], Loss: 10.7146
+  Batch [130/338], Loss: 11.5878
+  Batch [140/338], Loss: 12.4427
+  Batch [150/338], Loss: 13.3157
+  Batch [160/338], Loss: 14.1658
+  Batch [170/338], Loss: 15.0154
+  Batch [180/338], Loss: 15.8419
+  Batch [190/338], Loss: 16.7230
+  Batch [200/338], Loss: 17.5205
+  Batch [210/338], Loss: 18.3523
+  Batch [220/338], Loss: 19.1715
+  Batch [230/338], Loss: 19.9698
+  Batch [240/338], Loss: 20.7499
+  Batch [250/338], Loss: 21.5383
+  Batch [260/338], Loss: 22.3678
+  Batch [270/338], Loss: 23.1560
+  Batch [280/338], Loss: 23.9481
+  Batch [290/338], Loss: 24.7198
+  Batch [300/338], Loss: 25.5216
+  Batch [310/338], Loss: 26.2664
+  Batch [320/338], Loss: 27.0642
+  Batch [330/338], Loss: 27.8595
+Epoch [6/10]:
+  Batch [10/338], Loss: 0.7443
+  Batch [20/338], Loss: 1.4853
+  Batch [30/338], Loss: 2.2141
+  Batch [40/338], Loss: 2.9491
+  Batch [50/338], Loss: 3.6813
+  Batch [60/338], Loss: 4.4473
+  Batch [70/338], Loss: 5.1748
+  Batch [80/338], Loss: 5.8838
+  Batch [90/338], Loss: 6.5696
+  Batch [100/338], Loss: 7.2777
+  Batch [110/338], Loss: 8.0115
+  Batch [120/338], Loss: 8.7091
+  Batch [130/338], Loss: 9.4158
+  Batch [140/338], Loss: 10.1261
+  Batch [150/338], Loss: 10.8379
+  Batch [160/338], Loss: 11.5273
+  Batch [170/338], Loss: 12.2424
+  Batch [180/338], Loss: 12.9920
+  Batch [190/338], Loss: 13.6513
+  Batch [200/338], Loss: 14.3354
+  Batch [210/338], Loss: 15.0339
+  Batch [220/338], Loss: 15.7407
+  Batch [230/338], Loss: 16.4578
+  Batch [240/338], Loss: 17.1477
+  Batch [250/338], Loss: 17.8534
+  Batch [260/338], Loss: 18.5163
+  Batch [270/338], Loss: 19.1190
+  Batch [280/338], Loss: 19.7775
+  Batch [290/338], Loss: 20.4096
+  Batch [300/338], Loss: 21.0529
+  Batch [310/338], Loss: 21.7226
+  Batch [320/338], Loss: 22.3466
+  Batch [330/338], Loss: 22.9863
+Epoch [7/10]:
+  Batch [10/338], Loss: 0.6345
+  Batch [20/338], Loss: 1.2977
+  Batch [30/338], Loss: 1.9105
+  Batch [40/338], Loss: 2.5216
+  Batch [50/338], Loss: 3.1926
+  Batch [60/338], Loss: 3.8092
+  Batch [70/338], Loss: 4.4305
+  Batch [80/338], Loss: 5.0316
+  Batch [90/338], Loss: 5.6097
+  Batch [100/338], Loss: 6.2258
+  Batch [110/338], Loss: 6.8128
+  Batch [120/338], Loss: 7.4304
+  Batch [130/338], Loss: 8.0658
+  Batch [140/338], Loss: 8.6385
+  Batch [150/338], Loss: 9.2017
+  Batch [160/338], Loss: 9.8521
+  Batch [170/338], Loss: 10.4327
+  Batch [180/338], Loss: 11.0535
+  Batch [190/338], Loss: 11.6171
+  Batch [200/338], Loss: 12.1758
+  Batch [210/338], Loss: 12.6994
+  Batch [220/338], Loss: 13.2940
+  Batch [230/338], Loss: 13.8723
+  Batch [240/338], Loss: 14.4268
+  Batch [250/338], Loss: 14.9909
+  Batch [260/338], Loss: 15.5303
+  Batch [270/338], Loss: 16.1020
+  Batch [280/338], Loss: 16.6920
+  Batch [290/338], Loss: 17.2988
+  Batch [300/338], Loss: 17.8379
+  Batch [310/338], Loss: 18.4034
+  Batch [320/338], Loss: 18.9553
+  Batch [330/338], Loss: 19.4929
+Epoch [8/10]:
+  Batch [10/338], Loss: 0.5630
+  Batch [20/338], Loss: 1.0708
+  Batch [30/338], Loss: 1.6244
+  Batch [40/338], Loss: 2.1955
+  Batch [50/338], Loss: 2.7135
+  Batch [60/338], Loss: 3.2410
+  Batch [70/338], Loss: 3.8073
+  Batch [80/338], Loss: 4.2995
+  Batch [90/338], Loss: 4.7934
+  Batch [100/338], Loss: 5.3405
+  Batch [110/338], Loss: 5.8183
+  Batch [120/338], Loss: 6.2882
+  Batch [130/338], Loss: 6.8557
+  Batch [140/338], Loss: 7.3868
+  Batch [150/338], Loss: 7.8428
+  Batch [160/338], Loss: 8.3622
+  Batch [170/338], Loss: 8.8738
+  Batch [180/338], Loss: 9.4013
+  Batch [190/338], Loss: 9.9059
+  Batch [200/338], Loss: 10.4392
+  Batch [210/338], Loss: 10.9520
+  Batch [220/338], Loss: 11.4378
+  Batch [230/338], Loss: 11.9418
+  Batch [240/338], Loss: 12.4558
+  Batch [250/338], Loss: 12.9773
+  Batch [260/338], Loss: 13.4628
+  Batch [270/338], Loss: 13.9139
+  Batch [280/338], Loss: 14.4269
+  Batch [290/338], Loss: 14.9636
+  Batch [300/338], Loss: 15.4211
+  Batch [310/338], Loss: 15.8984
+  Batch [320/338], Loss: 16.4057
+  Batch [330/338], Loss: 16.8407
+Epoch [9/10]:
+  Batch [10/338], Loss: 0.4690
+  Batch [20/338], Loss: 0.9220
+  Batch [30/338], Loss: 1.4094
+  Batch [40/338], Loss: 1.8669
+  Batch [50/338], Loss: 2.3607
+  Batch [60/338], Loss: 2.8765
+  Batch [70/338], Loss: 3.3825
+  Batch [80/338], Loss: 3.8274
+  Batch [90/338], Loss: 4.2746
+  Batch [100/338], Loss: 4.7303
+  Batch [110/338], Loss: 5.1497
+  Batch [120/338], Loss: 5.5795
+  Batch [130/338], Loss: 6.0360
+  Batch [140/338], Loss: 6.4549
+  Batch [150/338], Loss: 6.8806
+  Batch [160/338], Loss: 7.3444
+  Batch [170/338], Loss: 7.7918
+  Batch [180/338], Loss: 8.2285
+  Batch [190/338], Loss: 8.6954
+  Batch [200/338], Loss: 9.1317
+  Batch [210/338], Loss: 9.5560
+  Batch [220/338], Loss: 10.0376
+  Batch [230/338], Loss: 10.4882
+  Batch [240/338], Loss: 10.9234
+  Batch [250/338], Loss: 11.3348
+  Batch [260/338], Loss: 11.7629
+  Batch [270/338], Loss: 12.1818
+  Batch [280/338], Loss: 12.5819
+  Batch [290/338], Loss: 13.0364
+  Batch [300/338], Loss: 13.4991
+  Batch [310/338], Loss: 13.9312
+  Batch [320/338], Loss: 14.3522
+  Batch [330/338], Loss: 14.8063
+Epoch [10/10]:
+  Batch [10/338], Loss: 0.4810
+  Batch [20/338], Loss: 0.9176
+  Batch [30/338], Loss: 1.3166
+  Batch [40/338], Loss: 1.7269
+  Batch [50/338], Loss: 2.1623
+  Batch [60/338], Loss: 2.5994
+  Batch [70/338], Loss: 3.0159
+  Batch [80/338], Loss: 3.4036
+  Batch [90/338], Loss: 3.8059
+  Batch [100/338], Loss: 4.1851
+  Batch [110/338], Loss: 4.5410
+  Batch [120/338], Loss: 4.9676
+  Batch [130/338], Loss: 5.3790
+  Batch [140/338], Loss: 5.7691
+  Batch [150/338], Loss: 6.1639
+  Batch [160/338], Loss: 6.5580
+  Batch [170/338], Loss: 6.9916
+  Batch [180/338], Loss: 7.4175
+  Batch [190/338], Loss: 7.7861
+  Batch [200/338], Loss: 8.1727
+  Batch [210/338], Loss: 8.5234
+  Batch [220/338], Loss: 8.9071
+  Batch [230/338], Loss: 9.3500
+  Batch [240/338], Loss: 9.7478
+  Batch [250/338], Loss: 10.1553
+  Batch [260/338], Loss: 10.5569
+  Batch [270/338], Loss: 10.9910
+  Batch [280/338], Loss: 11.3613
+  Batch [290/338], Loss: 11.7670
+  Batch [300/338], Loss: 12.1413
+  Batch [310/338], Loss: 12.5338
+  Batch [320/338], Loss: 12.9325
+  Batch [330/338], Loss: 13.2942
+Loss curves saved to cv\small\curve\T1Curve.png
+==============================================================
+Mean Average Precision for Each Class (Validation Set):
+AnnualCrop: 0.8421
+Forest: 0.8316
+HerbaceousVegetation: 0.7639
+Highway: 0.6735
+Industrial: 0.9130
+Pasture: 0.5819
+PermanentCrop: 0.6188
+Residential: 0.8531
+River: 0.6047
+SeaLake: 0.8931
+Mean Average Precision over all classes:: 0.7576
+==============================================================
+Mean Accuracy for Each Class (Validation Set):
+AnnualCrop: 0.9226
+Forest: 0.9451
+HerbaceousVegetation: 0.9430
+Highway: 0.9505
+Industrial: 0.9763
+Pasture: 0.9257
+PermanentCrop: 0.9476
+Residential: 0.9640
+River: 0.9444
+SeaLake: 0.9737
+Mean Average Precision over all classes:: 0.9493
+==============================================================
+Test Metrics for Each Class (Test Set):
+AnnualCrop:
+  Average Precision: 100.00%
+  Accuracy: 100.00%
+Forest:
+  Average Precision: 100.00%
+  Accuracy: 100.00%
+HerbaceousVegetation:
+  Average Precision: 100.00%
+  Accuracy: 100.00%
+Highway:
+  Average Precision: 100.00%
+  Accuracy: 100.00%
+Industrial:
+  Average Precision: 50.00%
+  Accuracy: 100.00%
+Pasture:
+  Average Precision: 100.00%
+  Accuracy: 100.00%
+PermanentCrop:
+  Average Precision: 50.00%
+  Accuracy: 100.00%
+Residential:
+  Average Precision: 100.00%
+  Accuracy: 100.00%
+River:
+  Average Precision: 100.00%
+  Accuracy: 100.00%
+SeaLake:
+  Average Precision: 100.00%
+  Accuracy: 100.00%
+Test Metrics (Overall Mean):
+  Mean Average Precision (mAP): 90.00%
+  Mean Accuracy: 100.00%
